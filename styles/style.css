@@ -1,0 +1,88 @@
+.row {
+	//border-style: solid;
+}
+.col{
+	//border-style: solid;
+}
+#draw{
+	
+	width: 100%;
+	margin-left:4vw;
+	//border-style:solid;
+	
+}
+#logo{
+	margin-top:8vw;
+}
+.sign {
+	
+	//margin-left: 1vw;
+	border-style: solid;
+	//margin: 0;
+	
+}
+#sign-box{
+	margin-left: 18vw;
+	width:78%;
+	margin-top: -34vw;
+	//border-style: solid;
+	
+}
+#signin {
+	color: white;
+}
+.stage{
+	margin-top: 10vw;
+}
+h3{
+	//text-align: center;
+	margin-left: 15vw;
+}
+#getstart{
+	width: 70vw;
+}
+#v-space{
+	margin-top: 40vw;
+	margin-bottom: 7vw;
+}
+.ima{
+	width: 50vw;
+	 
+	margin-left: 9vw;	
+}
+ footer {
+	 margin-top: 10vw;
+	 background-color: hsl(243, 87%, 12%);
+ }
+ #logo2{
+	 margin-top: 20vw;
+	 margin-left: 10vw;
+ }
+ #para{
+	 //margin-top:5%;
+	 margin-left: 10vw;
+	 width : 80%;
+ }
+ .colo{
+	 //text-color: red;
+	 color: white;
+ }
+ #join{
+	 margin-top: 5vw;	
+	 margin-left: 61.5vw;
+	 width: 35vw;
+ }
+ //#h11 {
+margin-left: 30vw;
+width: 50vw;
+height: 50vw;
+ }
+//#logo2{
+	 margin-left: 10vw;
+	 margin-top: 10vw;
+ }
+ .listx{
+	 color: white;
+	 margin-top: 30vw;
+	 margin-left: 14vw;
+ }

@@ -1,0 +1,122 @@
+.container-fluid{
+	//border-style: solid;
+	width: 100%;
+}
+
+.row {
+	
+	//border-style: solid;
+	width: 100%;
+}
+.col{
+	//border-style: solid;
+}
+.col-xl{
+	//border-style: solid;
+}
+#ill{
+	//display: none;
+}
+#head1{
+	margin-top: 5vw;
+	margin-left: 4vw;
+}
+#draw{
+	width: 70%;
+	margin-top: 10vw;
+	margin-left:10vw;
+	//border-style:solid;
+	
+}
+#logo{
+	//border-style: solid;
+	margin-top:4.8vw;
+	margin-left: 4vw;
+}
+.sign {
+	
+	//margin-left: 1vw;
+	border-style: solid;
+	//margin: 0;
+	
+}
+#sign-box{
+	margin-left: 32vw;
+	width:78%;
+	margin-top: -42vw;
+	//border-style: solid;
+	
+}
+#signin {
+	color: white;
+}
+.stage{
+	margin-top: 10vw;
+}
+h3{
+	//text-align: center;
+	margin-left: 15vw;
+}
+#getstart{
+	width: 70vw;
+}
+#v-space{
+	margin-top: 40vw;
+	margin-bottom: 7vw;
+}
+.ima{
+	width: 50vw;
+	 
+	margin-left: 9vw;	
+}
+ footer {
+	 margin-top: 10vw;
+	 background-color: hsl(243, 87%, 12%);
+ }
+ #logo2{
+	 margin-top: 20vw;
+	 margin-left: 10vw;
+ }
+ #para{
+	 //margin-top:5%;
+	 margin-left: 10vw;
+	 width : 80%;
+ }
+ .colo{
+	 //text-color: red;
+	 color: white;
+ }
+ #join{
+	 margin-top: 5vw;	
+	 margin-left: 61.5vw;
+	 width: 35vw;
+ }
+ //#h11 {
+margin-left: 30vw;
+width: 50vw;
+height: 50vw;
+ }
+//#logo2{
+	 margin-left: 10vw;
+	 margin-top: 10vw;
+ }
+ .listx{
+	 color: white;
+	 margin-top: 30vw;
+	 margin-left: 14vw;
+ }
+ #ill-desk{
+	 //margin-top: 5vw;
+	 //border-style: solid;
+	 //width: 70vw;
+	 //margin-left: 8.2vw;
+	 //height: 20vw;
+	 //width: 5vw;
+	 background-size: contain;
+	 background-repeat: no-repeat;
+	 background-image: url("file:///C:/Users/ahmed_atta/Downloads/fylo-landing-page-558498-master/fylo-landing-page-558498-master/images/bg-intro-desktop.png");
+ }
+ #header1{
+	 height: 50vw;
+	 width: 1440px;
+ }
