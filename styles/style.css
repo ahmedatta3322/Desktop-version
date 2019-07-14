@@ -1,18 +1,37 @@
-.row {
+.container-fluid{
 	//border-style: solid;
+	width: 100%;
+}
+
+.row {
+	
+	//border-style: solid;
+	width: 100%;
 }
 .col{
 	//border-style: solid;
 }
+.col-xl{
+	//border-style: solid;
+}
+#ill{
+	//display: none;
+}
+#head1{
+	margin-top: 5vw;
+	margin-left: 4vw;
+}
 #draw{
-	
-	width: 100%;
-	margin-left:4vw;
+	width: 70%;
+	margin-top: 10vw;
+	margin-left:10vw;
 	//border-style:solid;
 	
 }
 #logo{
-	margin-top:8vw;
+	//border-style: solid;
+	margin-top:4.8vw;
+	margin-left: 4vw;
 }
 .sign {
 	
@@ -22,9 +41,9 @@
 	
 }
 #sign-box{
-	margin-left: 18vw;
+	margin-left: 32vw;
 	width:78%;
-	margin-top: -34vw;
+	margin-top: -42vw;
 	//border-style: solid;
 	
 }
@@ -85,4 +104,19 @@ height: 50vw;
 	 color: white;
 	 margin-top: 30vw;
 	 margin-left: 14vw;
+ }
+ #ill-desk{
+	 //margin-top: 5vw;
+	 //border-style: solid;
+	 //width: 70vw;
+	 //margin-left: 8.2vw;
+	 //height: 20vw;
+	 //width: 5vw;
+	 background-size: contain;
+	 background-repeat: no-repeat;
+	 background-image: url("file:///C:/Users/ahmed_atta/Downloads/fylo-landing-page-558498-master/fylo-landing-page-558498-master/images/bg-intro-desktop.png");
+ }
+ #header1{
+	 height: 50vw;
+	 width: 1440px;
  }
